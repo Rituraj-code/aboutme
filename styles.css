@@ -1,0 +1,98 @@
+body{
+    margin-top: 100px;
+    background-image:repeating-linear-gradient(pink,lightgreen,lightblue);
+}
+.div1{
+    
+    width:  max-content;
+    height:40%;
+    position: absolute;
+    top: 40px;
+  right: 50px;
+    font-family:'Courier New', Courier, monospace; 
+    margin-left: 20px;
+}
+h1{ display: inline;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+   
+    }
+.first-heading
+{
+    position: absolute;
+    align-items: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.div2
+{
+    position: absolute;
+   left: 0%;
+    top: 80px;
+    text-align: center;
+width: 100%;
+height: 300px;
+
+}
+.div3{
+    
+position: relative;
+top: 100px;
+
+}
+image{
+    border: 5px;
+    
+}
+
+.div4{
+    
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    text-align: center;
+  top: 400px;
+  left: 0%;
+    border-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.div5{
+    position:absolute;
+    top: 800px;
+      left: 30%;}
+.div6{
+    position: absolute;
+    text-align: center;
+    top: 700px;
+    left: 0px;
+}
+.logo{
+    font-size: 3rem;
+    position: absolute;
+    left: 100px;
+    top: 0px;
+margin-left: 20px;
+}
+.img1{
+    position: absolute;
+    top: 20px;
+    left:20px;
+    float: left;
+border-radius: 100px;
+}
+image:hover{
+    background-size: 200px;
+}
+.div1h1{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.div1h2
+{
+    margin-right: 40px;
+}
+.last{
+position: absolute;
+right: 300px;
+bottom: 100px;
+}
+
